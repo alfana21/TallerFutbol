@@ -1,0 +1,8 @@
+@extends('templates.jugadores')
+@section('title','Jugadores')
+@section('table','Equipo:Colombia')
+@section('No','No')
+@section('Nombre','Nombre')
+@section('posicion','posición')
+@section('table','Equipo:Colombia')
+@section('footer','2018')
